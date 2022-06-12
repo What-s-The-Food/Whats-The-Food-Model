@@ -1,4 +1,4 @@
-# What-sTheFoodML
+# WhatsTheFoodML
 
 Google Bangkit Product-Based Capstone Project Machine Learning Path team C22-PS358
 ## Overview
